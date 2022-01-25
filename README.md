@@ -1,1 +1,0 @@
-# vritti.github.io
