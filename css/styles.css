@@ -10139,9 +10139,9 @@ img::-moz-selection {
 }
 header.masthead {
   padding-top: 10.5rem;
-  padding-bottom: 4rem;
+  padding-bottom: 6rem;
   text-align: center;
-  color: #fff;
+  color: #000000;
   background-image: url("../assets/img/Final_2.jpeg");
   background-repeat: no-repeat;
   background-attachment: scroll;
