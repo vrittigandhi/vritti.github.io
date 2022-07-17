@@ -10142,12 +10142,12 @@ header.masthead {
   padding-bottom: 0rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/Final_2.jpeg");
+  background-image: url("../assets/img/background.jpeg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
-  height: 40px;
+  height: 20px;
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
