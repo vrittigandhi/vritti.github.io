@@ -10139,10 +10139,10 @@ img::-moz-selection {
 }
 header.masthead {
   padding-top: 10.5rem;
-  padding-bottom: 0rem;
+  padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-/*   background-image: url("../assets/img/background.jpeg"); */
+  background-image: url("../assets/img/Final_3_blurred.jpeg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
